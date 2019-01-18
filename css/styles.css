@@ -1,0 +1,47 @@
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQK2bxt1US6RF84Ltq3iOtXk2_z2YnnWrwAHIOnvRTuzQmqpe");
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+  
+  .form{
+    width: 30%;
+    padding: 10px,10px,10px;
+    border: 1px solid #ccc;  
+    margin-top:60px;
+    border-style:solid;
+    border-width:10px;
+    border-color: black;
+    align:center;
+  }
+  input {
+    margin-left: 0.5px;
+    border: 3px;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0px 20px;
+  }
+  button {
+    margin-top: 10px;
+  }
+  
+  #demo {
+    justify-content: flex-end;
+    font-weight: bold;
+    color: navy;
+    font-size: 20px;
+  }
+  em {
+    font-family: "serif";
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color:darkred;
+  }
+  #values {
+    width: 40%;
+    padding-top: 40px;
+    border-style: ridge;
+    border-width: 2px;
+    text-align: center;
+    border-color:red;
