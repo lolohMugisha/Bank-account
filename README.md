@@ -8,8 +8,8 @@ Bank-account is some of my work and It is standalone webpage with information ab
 * Connect to the internet
 * Open your browser
 * In your browser adress bar type the following
-* https://github.com/lolohMugisha/Quiz-Board-project.git
-* https://github.com/lolohMugisha/Quiz-Board-project.git
+* https://github.com/lolohMugisha/Bank-account.git
+* https://github.com/lolohMugisha/Bank-account.git
 * And there you have it
 ## Technologies Used
 * HTML for structuring
